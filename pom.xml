@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>chai</artifactId>
-    <version>1.9.1-SNAPSHOT</version>
+    <version>1.9.1</version>
     <name>Chai</name>
     <description>WebJar for Chai</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/chai</url>
         <connection>scm:git:https://github.com/webjars/chai.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/chai.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>chai-1.9.1</tag>
     </scm>
     
     <build>
